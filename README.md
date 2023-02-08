@@ -1,6 +1,6 @@
 # Predicting-Molecule-Toxicity
 
-Predicting the toxicity of molecules in different species is very important when designing a drug or material that can end up in the environment so that minimal damage is done to the ecosystem. There are several methods to represent and featurise molecules in addition to several learning methods that can be used for this problem. 
+Predicting the toxicity of molecules in different species is very important when designing a drug or material that can end up in the environment so that minimal damage is done to the ecosystem. There are several methods to represent and featurise molecules in addition to several learning methods that can be used for this problem. This problem was treated as a classification problem, where models were trained to predict whether a molecule has high toxicity or low toxicity. 
 
 Here, two individual methods are shown. 
 
